@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+
+body {
+    background: #424242 
+    url("images/circuit-board.jpg") 
+    no-repeat;
+}
